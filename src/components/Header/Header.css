@@ -1,0 +1,14 @@
+.nav-area{
+    margin-top: 10px;
+    width: px;
+}
+.nav-area a{
+  
+    margin-right: 20px;
+    background-color: aqua;
+    padding: 2px 8px;
+}
+
+.nav-area a:hover{
+    color: orange;
+}

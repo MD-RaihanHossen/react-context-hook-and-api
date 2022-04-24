@@ -1,0 +1,25 @@
+.remove-button{
+    border: 1px solid red;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+.clear-button{
+    border: 1px solid red;
+    margin-left: 5px;
+    padding: 5px;
+    background-color: rgba(0, 0, 255, 0.515);
+
+}
+
+.cart-delets{
+    
+    position: sticky;
+    top: 0;
+    
+}
+
+.oreng{
+    background-color: orangered;
+    padding: 7px;
+}
